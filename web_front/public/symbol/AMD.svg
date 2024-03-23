@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>AMD</title>
+    <desc>Created with Sketch.</desc>
+    <g id="AMD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-1" stroke="#EAEAEA" fill="#FFFFFF" x="0.5" y="0.5" width="55" height="55" rx="27.5"></rect>
+            <g id="amd" transform="translate(14.000000, 13.000000)" fill="#000000">
+                <polyline id="Fill-4" points="20.7094286 7.90114286 7.82914286 7.90114286 0 0.036 28.7185714 0 28.7185714 28.7537143 20.7094286 20.7085714 20.7094286 7.90114286"></polyline>
+                <polyline id="Fill-5" points="8.11714286 21.6168571 8.15314286 10 0 18.1531429 0 29.626 11.7977143 29.626 19.806 21.6168571 8.11714286 21.6168571"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>FBHS</title>
+    <desc>Created with Sketch.</desc>
+    <g id="FBHS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <rect id="Rectangle-1" stroke="#000A8B" fill="#FFFFFF" x="0.5" y="0.5" width="55" height="55" rx="27.5"></rect>
+            <g id="Page-1" fill="#000A8B">
+                <g id="Group-3" transform="translate(0.000000, 0.106063)">
+                    <path d="M27.9492627,0.568636145 C12.6160578,0.572009639 -0.00148433735,12.752347 -0.000134939759,28.1617928 C0.00188915663,30.6568289 0.356780723,33.0580819 1.01191325,35.3399133 L27.9020337,11.8934554 L54.9014554,35.3014554 C55.5950458,32.8981783 55.9722024,30.3667084 55.9722024,27.7313349 C55.9722024,12.5391422 42.9302747,0.572009639 27.9492627,0.568636145" id="Fill-1"></path>
+                </g>
+                <path d="M27.947306,55.4313639 C40.2801253,55.4293398 50.8924627,47.5508819 54.5776675,36.458159 L1.32436627,36.458159 C5.00619759,47.5495325 15.9127036,55.4313639 27.947306,55.4313639" id="Fill-4"></path>
+            </g>
+        </g>
+    </g>
+</svg>

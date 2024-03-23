@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 54.1 (76490) - https://sketchapp.com -->
+    <title>Zoom Video Communications Inc</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M0.358779661,1.14955932 L0.358779661,14.0705085 C0.358779661,16.9773559 2.74027119,19.3338305 5.67335593,19.3338305 L24.5172203,19.3338305 C25.0511186,19.3338305 25.4837288,18.9054915 25.4837288,18.3758644 L25.4837288,5.45491525 C25.4837288,2.5480678 23.1022373,0.19159322 20.1691525,0.19159322 L1.32467797,0.19159322 C0.790779661,0.19159322 0.358169492,0.619932203 0.358169492,1.14955932 L0.358779661,1.14955932 Z M26.679661,6.18955932 L34.4568814,0.51620339 C35.1341695,-0.0390508475 35.6528136,0.0896949153 35.6528136,1.11355932 L35.6528136,18.4344407 C35.6528136,19.5815593 35.0066441,19.4522034 34.4568814,19.0311864 L26.679661,13.3566102 L26.679661,6.18955932 Z" id="path-1"></path>
+    </defs>
+    <g id="Zoom-Video-Communications-Inc" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-1" fill="#2D8CFF" x="0" y="0" width="56" height="56" rx="28"></rect>
+        <g id="Clipped" transform="translate(10.000000, 18.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="k"></g>
+            <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)" points="-1.13674576 -1.3039322 37.148339 -1.3039322 37.148339 20.8293559 -1.13674576 20.8293559"></polygon>
+        </g>
+    </g>
+</svg>

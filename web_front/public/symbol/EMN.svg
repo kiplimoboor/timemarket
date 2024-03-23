@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>ENM</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ENM" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Rectangle-1" stroke="#E1E1E1" fill="#FFFFFF" x="0.5" y="0.5" width="55" height="55" rx="27.5"></rect>
+        <g id="Group-45" transform="translate(10.000000, 12.000000)" fill="#D71800">
+            <polygon id="Path-9" points="0 28 11.9606674 28 16.3130951 17.6750382 16.3130951 7.17030935 19 7.17030935 19 0 11.3262823 0"></polygon>
+            <polygon id="Path-9-Copy" transform="translate(26.500000, 14.000000) scale(-1, 1) translate(-26.500000, -14.000000) " points="17 28 28.9606674 28 33.3130951 17.6750382 33.3130951 7.17030935 36 7.17030935 36 0 28.3262823 0"></polygon>
+        </g>
+    </g>
+</svg>
