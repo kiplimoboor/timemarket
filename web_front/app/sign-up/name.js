@@ -31,7 +31,7 @@ export default function Name({ addFirst, addSecond, confirm }) {
         </Link>{" "}
         <button
           onClick={() => confirm(true)}
-          className="border p-2  w-1/4  py-2 font-medium text-white transition-colors duration-300 transform bg-gray-950  hover:bg-gray-600 focus:outline-none"
+          className="border p-2  w-1/4  py-2 font-medium text-white transition-colors duration-300 transform bg-emerald-600  hover:bg-emerald-400 focus:outline-none"
         >
           Next
         </button>

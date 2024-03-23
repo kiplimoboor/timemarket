@@ -34,7 +34,7 @@ export default function Login() {
               <input type="password" className="w-full border-gray-300" />
             </div>
           </form>
-          <button className="mt-4 w-full py-2 font-medium text-white transition-colors duration-300 transform bg-gray-950  hover:bg-gray-600 focus:outline-none">
+          <button className="mt-4 w-full py-2 font-medium text-white transition-colors duration-300 transform bg-emerald-600  hover:bg-emerald-400 focus:outline-none">
             Sign In
           </button>
           <p className="mt-8 text-center text-gray-600 text-sm">

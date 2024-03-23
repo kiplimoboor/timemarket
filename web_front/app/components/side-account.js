@@ -6,7 +6,7 @@ import Link from "next/link";
 const SideAccount = () => {
   return (
     <>
-      <div className="px-4">
+      <div>
         <div className="mt-2 flex items-center py-2">
           <div className="">
             <Image src="/user.png" height={45} width={45} alt="x" />
@@ -22,13 +22,13 @@ const SideAccount = () => {
         </div>
         <div className="mt-3 flex items-center justify-between pb-3 border-b">
           <Link href="/">
-            <button className="bg-emerald-600 text-white w-32 p-2 hover:bg-emerald-500">
-              Deposit
+            <button className="bg-emerald-600 text-white font-medium w-32 p-2 hover:bg-emerald-500">
+              Trade
             </button>
           </Link>
           <Link href="/">
-            <button className="bg-orange-500 text-white w-36 p-2 hover:bg-orange-400">
-              Trade Now
+            <button className="bg-orange-500 text-white font-medium w-32 p-2 hover:bg-orange-400">
+              Deposit
             </button>
           </Link>
         </div>

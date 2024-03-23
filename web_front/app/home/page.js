@@ -5,11 +5,11 @@ import Navbar from "../components/nav";
 import { useState } from "react";
 
 const Homepage = () => {
-  const [isSidebar, setIsSidebar] = useState(true);
+  const [isSidebar, setIsSidebar] = useState(false);
   return (
     <>
-      <Navbar isSidebar={isSidebar} />
-      {isSidebar ? <Sidebar /> : ""}
+      <Navbar activateSidebar={setIsSidebar} />
+      <Sidebar isActive={isSidebar} activateSidebar={setIsSidebar} />
     </>
   );
 };
