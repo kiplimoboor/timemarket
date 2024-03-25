@@ -1,15 +1,17 @@
 import Image from "next/image";
 import SideAccount from "./side-account";
 import SideActions from "./side-actions";
+import { useSideContext } from "../context/sidebar";
 
-const Sidebar = ({ isActive, activateSidebar }) => {
+const Sidebar = () => {
+  const { isOpen, setIsOpen } = useSideContext();
   return (
     <>
       <div
-        className={`${isActive ? "" : "translate-x-full"} fixed top-0 right-0 h-full w-80 bg-white shadow-md transition-all ease-in-out duration-300 overflow-x-hidden`}
+        className={`${isOpen ? "" : "translate-x-full"} fixed top-0 right-0 h-full w-80 bg-white shadow-md transition-all ease-in-out duration-300 overflow-x-hidden`}
       >
         <div className="absolute top-3 right-3">
-          <button onClick={() => activateSidebar(false)}>
+          <button onClick={() => setIsOpen(false)}>
             <Image
               src="x.svg"
               height={10}

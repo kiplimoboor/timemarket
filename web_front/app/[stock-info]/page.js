@@ -1,11 +1,10 @@
 "use client";
 
-import Sidebar from "../components/sidebar";
 import Navbar from "../components/nav";
-import { useState } from "react";
+import Sidebar from "../components/sidebar";
 import { SideWrapper } from "../context/sidebar";
 
-const Homepage = () => {
+const StockInfo = () => {
   return (
     <>
       <SideWrapper>
@@ -16,4 +15,4 @@ const Homepage = () => {
   );
 };
 
-export default Homepage;
+export default StockInfo;
